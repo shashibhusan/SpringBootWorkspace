@@ -1,0 +1,28 @@
+package com.shashi;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+public class IndicatorData {
+    
+    @JsonProperty("technicalObjectId")
+    private String technicalObjectId;
+
+    @JsonProperty("category")
+    private Category category;
+
+    @JsonProperty("characteristics")
+    private Characteristics characteristics;
+
+    @JsonProperty("position")
+    private String position;
+
+    @JsonProperty("characteristics_ID")
+    private String characteristics_ID;
+    
+    @JsonProperty("measuringPointId")
+    private String  measuringPointId;
+
+    
+}
+

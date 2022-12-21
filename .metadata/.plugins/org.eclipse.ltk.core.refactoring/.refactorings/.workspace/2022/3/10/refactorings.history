@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;restTemplate&apos; to &apos;SAPLearning&apos;" description="Rename resource &apos;restTemplate&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/restTemplate" name="SAPLearning" stamp="1646390152272" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;SAPLearning&apos; to &apos;restTemplate&apos;" description="Rename resource &apos;SAPLearning&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/SAPLearning" name="restTemplate" stamp="1646390332443" updateReferences="true"/>
+</session>

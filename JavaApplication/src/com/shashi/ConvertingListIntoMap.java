@@ -1,0 +1,17 @@
+package com.shashi;
+
+import java.util.Arrays;
+import java.util.List;
+import java.util.Map;
+import java.util.stream.Collectors;
+
+public class ConvertingListIntoMap {
+	public static void main(String s[]) {
+		List<String> l1 = Arrays.asList("chandra", "bhusan", "patel");
+
+		Map<Integer, String> result = l1.stream()
+				.collect(Collectors.toMap(b -> b.toString().length(), b -> b.toString()));
+		System.out.println("Result : " + result);
+	}
+
+}

@@ -1,0 +1,28 @@
+package com.shashi;
+
+import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Collectors;
+
+public class ExampleOfFlatMapAndFlatMap {
+
+	public static void main(String s[]) {
+
+		List<String> l1 = Arrays.asList("shashi", "bhusan", "patel");
+		List<String> l2 = Arrays.asList("raghavendra", "kumar", "singh");
+		List<String> l3 = Arrays.asList("devendra", "kumar", "yadav");
+
+		List<List<String>> listOfList = Arrays.asList(l1, l2, l3);
+
+		List<String> resultList = listOfList.stream().flatMap(
+				l -> l.stream())
+				.collect(Collectors.toList());
+
+		List<String> resultList01 = l1.stream().map(m -> m.toUpperCase()).collect(Collectors.toList());
+
+		System.out.println("Result list is :: " + resultList);
+		System.out.println("Result list is 01:: " + resultList01);
+
+	}
+
+}

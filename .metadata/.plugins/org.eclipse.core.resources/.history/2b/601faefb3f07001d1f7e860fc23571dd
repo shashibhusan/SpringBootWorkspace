@@ -1,0 +1,15 @@
+package com.shashi;
+
+public class Test {
+	
+	public static void main(String[] args) {
+		Employee e1 = new Employee(null, null, "test", null);
+		System.out.println("Employee address : "+e1.getAddress());
+	}
+
+	public static void change(Employee e) {
+		e.setAddress("Noida Ballia piluee");
+	}
+}
+
+

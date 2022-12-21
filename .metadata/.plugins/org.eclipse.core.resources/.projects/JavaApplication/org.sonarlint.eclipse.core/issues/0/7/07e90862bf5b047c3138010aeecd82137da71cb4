@@ -1,0 +1,23 @@
+
+[
+java:S1197"*Move the array designators [] to the type.(˜ƒ|8§Á–ˆ¢0HRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ı¾øĞ8Î‰ÍŸ¢0H¨RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(âğ ¼üÿÿÿÿ8ö¼ÃŸ¢0H˜RMAJORZ
+CODE_SMELL
+_
+java:S1481",Remove this unused "result1" local variable.(©›²8ö¼ÃŸ¢0H–RMINORZ
+CODE_SMELL
+n
+java:S1854";Remove this useless assignment to local variable "result1".(©›²8ö¼ÃŸ¢0H•RMAJORZ
+CODE_SMELL
+q
+java:S1612"9Replace this lambda with method reference 'User::getAge'.(ÖŞ–úÿÿÿÿ8è“ÅŸ¢0HÛRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ôöúùÿÿÿÿ8¶°´Ÿ¢0HóRMAJORZ
+CODE_SMELL
+f
+java:S3655"5Call "result.isPresent()" before accessing the value.(´ìıÿÿÿÿ8Àá½É¢0HéRMAJORZBUG
+p	java:S106"9Replace this use of System.out or System.err by a logger.(´ìıÿÿÿÿ8Àá½É¢0HêRMAJORZ
+CODE_SMELL

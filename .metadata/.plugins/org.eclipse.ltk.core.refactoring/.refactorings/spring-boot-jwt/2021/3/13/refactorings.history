@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;JwtAuthenticationEntryPoint.java&apos; to &apos;JWT-Demo/src/main/java/com.dailycodebuffer.jwt.config&apos;&#x0D;&#x0A;- Original project: &apos;spring-boot-jwt&apos;&#x0D;&#x0A;- Destination element: &apos;JWT-Demo/src/main/java/com.dailycodebuffer.jwt.config&apos;&#x0D;&#x0A;- Original element: &apos;com.javainuse.config.JwtAuthenticationEntryPoint.java&apos;" description="Copy compilation unit" destination="=JWT-Demo/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.dailycodebuffer.jwt.config" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.javainuse.config{JwtAuthenticationEntryPoint.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1616580555491" units="1" version="1.0"/>
+</session>

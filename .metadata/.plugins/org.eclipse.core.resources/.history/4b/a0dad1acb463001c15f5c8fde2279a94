@@ -1,0 +1,15 @@
+package com.shashi;
+
+public class IndicatorData {
+    
+    private String technicalObjectId;
+
+    private String position;
+
+    private String characteristics_ID;
+    
+    private String  measuringPointId;
+
+    
+}
+

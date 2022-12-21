@@ -1,0 +1,25 @@
+package com.shashi;
+
+import java.util.Objects;
+
+public class Test {
+	
+	public static void main(String[] args) {
+		
+		String a="shashi";
+		String b=null;
+		 
+			System.out.println("======>>> "+Objects.equals(a, b));	
+		
+	}
+	
+	public boolean isCorrect()
+	{
+		int a=13,b=12;
+
+		return a==b;
+	}
+
+}
+
+

@@ -1,0 +1,28 @@
+
+x
+java:S1612"@Replace this lambda with method reference 'Company::getAddress'.(ºÓš‡úÿÿÿÿ8ı•Â„¢0H«RMINORZ
+CODE_SMELL
+r
+java:S1854":Remove this useless assignment to local variable "result".(ïğºúÿÿÿÿ8«â‹…¢0HáRMAJORZ
+CODE_SMELL
+k	java:S106)"9Replace this use of System.out or System.err by a logger.(¬Š÷8Ûä¾…¢0HùRMAJORZ
+CODE_SMELL
+s
+java:S1854#";Remove this useless assignment to local variable "result1".(¯À‰Ùÿÿÿÿÿ8«â‹…¢0HàRMAJORZ
+CODE_SMELL
+d
+java:S1481#",Remove this unused "result1" local variable.(¯À‰Ùÿÿÿÿÿ8«â‹…¢0HåRMINORZ
+CODE_SMELL
+c
+java:S1481"+Remove this unused "result" local variable.(ïğºúÿÿÿÿ8«â‹…¢0HâRMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(Â‡Ì†8«â‹…¢0HäRMAJORZ
+CODE_SMELL
+u
+java:S1612"=Replace this lambda with method reference 'Company::getName'.(ºÓš‡úÿÿÿÿ8ı•Â„¢0H©RMINORZ
+CODE_SMELL
+Œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(™“‘Ú8ºÁ×„¢0H¯RMINORZ
+CODE_SMELL
+n	java:S125%"<This block of commented-out lines of code should be removed.(ˆ¸´¿8«â‹…¢0HçRMAJORZ
+CODE_SMELL

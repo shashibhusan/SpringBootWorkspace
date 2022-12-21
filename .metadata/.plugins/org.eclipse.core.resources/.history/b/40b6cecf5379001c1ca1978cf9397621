@@ -1,0 +1,14 @@
+package com.shashi;
+
+public class Test {
+	
+	public static void main(String[] args) {
+		String TECHNICAL_OBJECT_ID="TECHNICAL_OBJECT_ID"; 
+		String technicalObjectId="technicalObjectId";
+		String filterQuery = String.format("%s eq %s", TECHNICAL_OBJECT_ID, String.format("('%s')", String.join("','", technicalObjectId)));
+	    String filterSsid = String.format("%s eq %s", "ssid", String.format("('%s')", String.join("','", "cc")));
+		
+		System.out.println("======>>> "+filterQuery+filterSsid);
+	}
+
+}

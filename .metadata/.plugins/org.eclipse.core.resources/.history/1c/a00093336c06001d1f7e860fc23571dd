@@ -1,0 +1,8 @@
+package com.shashi;
+
+public class ConvertingListIntoMap {
+	public static void main(String s[]) {
+
+	}
+
+}

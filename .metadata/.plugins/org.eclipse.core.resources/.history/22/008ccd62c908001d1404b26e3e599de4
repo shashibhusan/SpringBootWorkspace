@@ -1,0 +1,17 @@
+package com.shashi;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class GroupByExample {
+
+	public static void main(String[] args) {
+
+		List<Company> companyList = new ArrayList<>();
+		companyList.add(new Company("HCL", "Noida"));
+		companyList.add(new Company("HCL", "Delhi"));
+		companyList.add(new Company("HCL", "Gurgaon"));
+
+	}
+
+}

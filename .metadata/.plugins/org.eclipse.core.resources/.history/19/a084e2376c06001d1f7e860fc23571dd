@@ -1,0 +1,10 @@
+package com.shashi;
+
+import java.util.Arrays;
+
+public class ConvertingListIntoMap {
+	public static void main(String s[]) {
+		List<String> l1 = Arrays.asList("chandra", "bhusan", "patel");
+	}
+
+}

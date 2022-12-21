@@ -1,0 +1,10 @@
+
+Œ
+java:S12104"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ãÒñ8Æ‚Ï¢0HìRMINORZ
+CODE_SMELL
+i
+java:S11355"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8Æ‚Ï¢0HíRINFOZ
+CODE_SMELL
+‚
+java:S1104	"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿8ğğ«Ù¢0HïRMINORZ
+CODE_SMELL
